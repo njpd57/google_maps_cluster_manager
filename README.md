@@ -1,6 +1,15 @@
 [![pub package](https://img.shields.io/pub/v/google_maps_cluster_manager.svg)](https://pub.dartlang.org/packages/google_maps_cluster_manager)
 
-# Flutter Cluster Manager for Google Maps
+
+
+# THIS IS A FORK OF ![This repo](https://github.com/bpillon/google_maps_cluster_manager).
+
+## Changes
+
+* I Changed all Cluster and ClusterManager ocurrences with CustomCluster and CustomClusterManager
+
+
+# Flutter Cluster Manager for Google Maps 
 
 ![Screenshot](https://raw.githubusercontent.com/bpillon/google_maps_cluster_manager/master/example/example.gif)
 
